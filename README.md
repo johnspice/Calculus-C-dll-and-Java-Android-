@@ -1,7 +1,7 @@
 # Calculusdll
 Analizador sintáctico de funciones Matematicas
 
-Esta librería está desarrollada en c#
+Esta librería está desarrollada en c# tambien para JAVA(en desarrollo)
 Posee 4 métodos:
 
 ### 1. Sintaxis (string fx, char var)
